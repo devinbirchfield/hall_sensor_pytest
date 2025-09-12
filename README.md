@@ -35,6 +35,7 @@ The following table details the connections for the motor test setup.
 
 All connections made to the rockwell service drive gpio are connected to the CN1 connection.
 This pin terminal adapter is shown below.
+
 ![alt text](./markdown_images/CN1_Connection_Breakout_Terminal.png)
 
 The pin description is shown in the picture below.
