@@ -191,7 +191,7 @@ To run the pytest tests, simply type `pytest` and hit enter from the root direct
 
 pytest will sesarch for all files named test_XXX.py and then subsequenlty all test case functions named test_XXX. where X is just the name of the file or the function. I.E. test_motor_move().
 
-## collecting artifacts
+## Collecting artifacts
 
 To collect the artifacts of the pytest run. A directory called Artifacts is created. Each test session gets its own Timestamped directory. And inside this directory is a directory for each test case which was run.
 
