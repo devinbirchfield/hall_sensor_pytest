@@ -215,5 +215,3 @@ To transfer / copy the files over to your windows machine, or any other machine.
 scp -r testlab-pi:~/ArtifactsToSend/latest/ <your_desired_file_path>
 ```
 
-# Specialty Servo Commands
-
